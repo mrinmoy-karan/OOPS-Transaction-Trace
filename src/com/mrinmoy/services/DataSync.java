@@ -17,7 +17,7 @@ import static com.mrinmoy.utils.ConfigLoader.getToken;
 
 public class DataSync {
 
-    public static final String FILE_NAME = "shop_ledger.csv";
+    public static final String FILE_NAME = "o2c_audit_log.csv";
 
 
     public static void saveToFile(String row) {
